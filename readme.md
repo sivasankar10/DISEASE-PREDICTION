@@ -1,12 +1,17 @@
 # Project Title
+This project uses machine learning algorithms to predict the disease
+and suggests a temporary preventive measure to treat the disease
+until the reach of hospital.
 
-Brief description of your project.
+This project collects the symptoms  user poses and match it with pre -
+existing data base to find the accurate disease and preventive
+measure for it 
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Improved Accuracy 
+- Preventive measures
+  
 
 ## Installation
 
