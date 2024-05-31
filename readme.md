@@ -1,4 +1,4 @@
-# Project Title
+# DISEASE PREDICTION USING MACHINE ALGORITHMS !
 This project uses machine learning algorithms to predict the disease
 and suggests a temporary preventive measure to treat the disease
 until the reach of hospital.
